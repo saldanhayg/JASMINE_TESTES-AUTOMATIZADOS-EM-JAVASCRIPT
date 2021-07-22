@@ -1,10 +1,9 @@
 # JASMINE: TESTES AUTOMATIZADOS EM JAVASCRIPT
 
 <h1>
-   <img src="https://scontent.fsjk2-1.fna.fbcdn.net/v/t1.0-9/121016982_3666298970068345_6783759064406129136_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=cdbe9c&_nc_ohc=RMzpsM89e4oAX-yd6da&_nc_ht=scontent.fsjk2-1.fna&oh=aa5270292ef8fa89d3ea9890d97d1c0b&oe=6070FE71" border="0">
-</h1>
-
-Este curso faz parte da Formação Front End do programa Acelera Devs na TIVIT que participei. 
+   <img src="https://i.ibb.co/7CbtCNj/JASMINE-TESTES-AUTOMATIZADOS-EM-JAVASCRIPT.png" alt="JASMINE-TESTES-AUTOMATIZADOS-EM-JAVASCRIPT" border="0"></h1>
+   
+Este curso faz parte da Formação Front End do programa Acelera Devs .
 
 O Acelera Devs é um programa de capacitação e formação de desenvolvedores full-stack. A iniciativa surgiu como uma resposta à alta demanda do mercado por desenvolvedores, uma vez que, segundo levantamento da Brasscom, há um déficit de 24 mil formandos na área de Tecnologia da Informação (TI). 
 
